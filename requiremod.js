@@ -1,4 +1,4 @@
-var food = {
+module.exports = {
   fruit: "apple",
   vegetable: "lettuce",
   howMuch: function cost() {
